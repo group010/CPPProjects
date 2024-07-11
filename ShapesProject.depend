@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1720595397 source:c:\users\prani\desktop\class notes\cdac topics\cpp\09-07-24\shapesproject\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1720595382 c:\users\prani\desktop\class notes\cdac topics\cpp\09-07-24\shapesproject\include\circle.h
+	"Shape.h"
+
+1720594907 c:\users\prani\desktop\class notes\cdac topics\cpp\09-07-24\shapesproject\include\shape.h
+	<iostream>
+
+1720595528 source:c:\users\prani\desktop\class notes\cdac topics\cpp\09-07-24\shapesproject\src\main.cpp
+	<iostream>
+	"Shape.h"
+	"Triangle.h"
+	"Circle.h"
+
+1720596124 c:\users\prani\desktop\class notes\cdac topics\cpp\09-07-24\shapesproject\include\triangle.h
+	"Shape.h"
+
+1720596029 source:c:\users\prani\desktop\class notes\cdac topics\cpp\09-07-24\shapesproject\src\shape.cpp
+	"Shape.h"
+
